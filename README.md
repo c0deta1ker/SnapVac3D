@@ -24,3 +24,33 @@ The vacuum design is split into three independent tables of properties:
 
 You can continuously monitor the progress of your model as you build it port-by-port, with the option to save the results at any time. Additionally, you can save the final tables as a single .txt file, which can be easily reloaded, making it super simple to collaborate or share your designs with others.  
 ![App_MatBase](SnapVac3D-v1.0/0_ReadMeImages/App_SnapVac3D.png)  
+
+
+
+## MATLAB Version control  
+MATLAB version:   2024a  
+MATLAB add-ons (recommended): None
+
+
+## Authors
+**Dr. Procopios Constantinou**,  
+Swiss Light Source (SLS),  
+Paul Scherrer Institute (PSI),  
+email: procopios.constantinou@psi.ch
+
+**Dr. Vladimir Strocov**,  
+Swiss Light Source (SLS),  
+Paul Scherrer Institute (PSI),  
+email: vladimir.strocov@psi.ch
+
+
+## Acknowledgments
+
+
+
+## License  
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details. 
+
+--PCC, November 2024
+
+
