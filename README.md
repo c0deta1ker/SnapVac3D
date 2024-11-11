@@ -13,5 +13,11 @@ This app is tailored for researchers, engineers, technicians, and students inter
 
 
 ## SnapVac3D App
-The main MATLAB App that provides seamless navigation to all other MATLAB apps using the comprehensive Materials Properties Database. Accessible in MATLAB via 'App_MatBase'.
+The vacuum design is split into three independent tables of properties:
+**(1) Main-Chamber Properties**: Define the design of your main chamber, whether it's cylindrical, spherical, or tetragonal, along with its dimensions.
+
+**(2) Focal-Point Properties**: Specify the focal points, which serve as the origin points for each port placement.
+
+**(3) Port Properties**: Configure all necessary ports using conventional European (DN) sizes, based on tube inner diameters in millimeters. Define the length and rotational orientation (via spherical coordinates) of each port. Additionally, specify whether the port is rotatable or tapped and label its usage. Crucially, the focal point to serve as the origin for each port can also be defined with a drop-down box.
+
 ![App_MatBase](SnapVac3D-v1.0/0_ReadMeImages/App_SnapVac3D.png)  
