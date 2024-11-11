@@ -12,7 +12,7 @@ This app is tailored for researchers, engineers, technicians, and students inter
 4. Type 'App_SnapVac3D' in the MATLAB Command Prompt to boot up the App.  
 
 
-## SnapVac3D App
+## App Details
 ![App_MatBase](SnapVac3D-v1.0/0_ReadMeImages/App_SnapVac3D.png)   
 
 The vacuum design is split into three independent tables of properties:  
