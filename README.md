@@ -13,11 +13,14 @@ This app is tailored for researchers, engineers, technicians, and students inter
 
 
 ## SnapVac3D App
-The vacuum design is split into three independent tables of properties:
-**(1) Main-Chamber Properties**: Define the design of your main chamber, whether it's cylindrical, spherical, or tetragonal, along with its dimensions.
+The vacuum design is split into three independent tables of properties:  
 
-**(2) Focal-Point Properties**: Specify the focal points, which serve as the origin points for each port placement.
+**(1) Main-Chamber Properties**: Define the design of your main chamber, whether it's cylindrical, spherical, or tetragonal, along with its dimensions.  
 
-**(3) Port Properties**: Configure all necessary ports using conventional European (DN) sizes, based on tube inner diameters in millimeters. Define the length and rotational orientation (via spherical coordinates) of each port. Additionally, specify whether the port is rotatable or tapped and label its usage. Crucially, the focal point to serve as the origin for each port can also be defined with a drop-down box.
+**(2) Focal-Point Properties**: Specify the focal points, which serve as the origin points for each port placement.  
 
+**(3) Port Properties**: Configure all necessary ports using conventional European (DN) sizes, based on tube inner diameters in millimeters. Define the length and rotational orientation (via spherical coordinates) of each port. Additionally, specify whether the port is rotatable or tapped and label its usage. Crucially, the focal point to serve as the origin for each port can also be defined with a drop-down box.  
+
+
+You can continuously monitor the progress of your model as you build it port-by-port, with the option to save the results at any time. Additionally, you can save the final tables as a single .txt file, which can be easily reloaded, making it super simple to collaborate or share your designs with others.  
 ![App_MatBase](SnapVac3D-v1.0/0_ReadMeImages/App_SnapVac3D.png)  
