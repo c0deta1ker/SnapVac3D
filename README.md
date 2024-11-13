@@ -10,7 +10,7 @@ This app is tailored for researchers, engineers, technicians, and students inter
 2. Open MATLAB and use *Set Path* in the *Home* tab to add the *SnapVac3D* repository and all its sub-folders into its saved search paths.
 3. Type 'App_SnapVac3D' in the MATLAB Command Prompt to boot up the  App.
 
-Or, simply download & install the executable file [here](https://github.com/c0deta1ker/SnapVac3D/releases/download/v1.0/SnapVac3D_Installer_Web.exe)!    
+Or, simply download & install the standalone app via the executable file [here](https://github.com/c0deta1ker/SnapVac3D/releases/download/v1.0/SnapVac3D_Installer_Web.exe)!    
 
 
 ## App Details
