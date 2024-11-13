@@ -2,7 +2,7 @@
 
 [SnapVac3D](https://github.com/c0deta1ker/SnapVac3D) is a cutting-edge app that enables users to effortlessly design custom vacuum chambers in 3D with exceptional precision and speed. Seamlessly browse through your designs to ensure feasibility, then save them as text files and PNGs for easy retrieval or sharing with your preferred vacuum supplier. Crafting your perfect vacuum chamber has never been more accessible!
 
-This app is tailored for researchers, engineers, technicians, and students interested in designing bespoke vacuum chambers. Whether you are collaborating on a vacuum chamber design, working on a research project, or simply curious about creating your own design, this app facilitates easy iteration. The final text file contains all the technical information your vacuum supplier needs. [Download SnapVac3D](https://github.com/c0deta1ker/SnapVac3D/releases/download/v1.0/SnapVac3D_Installer_Web.exe)) today and bring your designs to life!  
+This app is tailored for researchers, engineers, technicians, and students interested in designing bespoke vacuum chambers. Whether you are collaborating on a vacuum chamber design, working on a research project, or simply curious about creating your own design, this app facilitates easy iteration. The final text file contains all the technical information your vacuum supplier needs. [Download SnapVac3D](https://github.com/c0deta1ker/SnapVac3D/releases/download/v1.0/SnapVac3D_Installer_Web.exe) today and bring your designs to life!  
 
 
 ## Installation  
