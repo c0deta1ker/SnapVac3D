@@ -38,14 +38,9 @@ Swiss Light Source (SLS),
 Paul Scherrer Institute (PSI),  
 email: procopios.constantinou@psi.ch
 
-**Dr. Vladimir Strocov**,  
-Swiss Light Source (SLS),  
-Paul Scherrer Institute (PSI),  
-email: vladimir.strocov@psi.ch
-
 
 ## Acknowledgments
-
+I would like to thank Dr. Vladimir Strocov (PSI) for his invaluable guidance and support in the design and execution of this software application. His expertise and insights were instrumental in the successful completion of this project.   
 
 
 ## License  
