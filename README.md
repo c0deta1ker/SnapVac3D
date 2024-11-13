@@ -6,14 +6,10 @@ This app is tailored for researchers, engineers, technicians, and students inter
 
 
 ## Installation   
-1. Download the *SnapVac3D* repository.
-2. Open MATLAB and use *Set Path* in the *Home* tab to add the *SnapVac3D* repository and all its sub-folders into its saved search paths.
-3. Make sure you also use *Set Path* to add the repository / folder that contains all of your data to be loaded in.
-4. Type 'App_SnapVac3D' in the MATLAB Command Prompt to boot up the App.  
-
+Download & install [here](/SnapVac3D-v1.0/InstallWizard/install_SnapVac3D_web.exe)!  
 
 ## App Details
-![App_MatBase](SnapVac3D-v1.0/0_ReadMeImages/App_SnapVac3D.png)   
+![App_MatBase](SnapVac3D-v1.0/ReadMeImages/App_SnapVac3D.png)   
 
 The vacuum design is split into three independent tables of properties:  
 
