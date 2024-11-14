@@ -18,11 +18,14 @@ Or, simply download & install the standalone app via the executable file [here](
 
 The vacuum design is split into three independent tables of properties:  
 
-**(1) Main-Chamber Properties**: Define the design of your main chamber, whether it's cylindrical, spherical, or tetragonal, along with its dimensions.  
+**(1) Main-Chamber Properties**: Define the morphology of your main chamber (choice of cylindrical, spherical, tetragonal or capsule) along with its dimensions & wall thickness. Here, you can also give your design a name and add some notes.  
 
 **(2) Focal-Point Properties**: Specify the focal points, which serve as the origin points for each port placement.  
 
-**(3) Port Properties**: Configure all necessary ports using conventional European (DN) sizes, based on tube inner diameters in millimeters. Define the length and rotational orientation (via spherical coordinates) of each port. Additionally, specify whether the port is rotatable or tapped and label its usage. Crucially, the focal point to serve as the origin for each port can also be defined with a drop-down box.   
+**(3) Port Properties**: Configure all necessary ports using conventional European (DN) sizes, based on tube inner diameters in millimetres. Define the length and rotational orientation (via spherical coordinates) of each port. Additionally, specify whether the port is rotatable or tapped and label its usage. Crucially, the focal point to serve as the origin for each port can also be defined with a drop-down box.     
+
+
+You can execute and view the current model at any time. The application offers several options for 3D rendering, as well as a transparency setting that allows you to adjust the plot's transparency for an inside view of your design. Any intersections of the ports and main body are also removed, whilst maintaining optimal performance.    
 
 
 ## MATLAB Version control  
