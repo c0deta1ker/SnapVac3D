@@ -12,7 +12,6 @@ This app is tailored for researchers, engineers, technicians, and students inter
 
 Or, simply download & install the standalone app via the executable file [here](https://github.com/c0deta1ker/SnapVac3D/releases/download/v1.0/SnapVac3D_Installer_Web.exe)!    
 
-
 ## App Details
 ![App_MatBase](SnapVac3D-v1.0/ReadMeImages/App_SnapVac3D.png)   
 
