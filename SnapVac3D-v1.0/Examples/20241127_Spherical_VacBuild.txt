@@ -1,0 +1,13 @@
+Name	Main-Body Type	Outer Diameter (mm)	Wall Thickness (mm)	Height (mm)	Notes
+20241127_Spherical_VacBuild	Spherical	120	5	100	
+-----
+Name	Color	Fx (mm)	Fy (mm)	Fz (mm)
+A		0	0	0
+-----
+Port	Flange	Length	Theta (β)	Phi (α)	Rotatable?	Threaded?	Usage	Focal-Point
+1	DN40CF	150	0	0	yes	no	Transfer Line	A
+2	DN63CF	80	90	0	yes	yes	LEED	A
+3	DN40CF	100	180	0	no	no	Load-Lock Connector	A
+4	DN63CF	100	-90	0	no	yes	Ion Pump	A
+5	DN63CF	100	0	-90	no	no	ViewPort	A
+-----
