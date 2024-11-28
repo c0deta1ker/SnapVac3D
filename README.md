@@ -21,7 +21,7 @@ The vacuum design is split into three independent tables of properties:
 
 **(2) Focal-Point Properties**: Specify the focal points, which serve as the origin points for each port placement.  
 
-**(3) Port Properties**: Configure all necessary ports using conventional European (DN) sizes, based on tube inner diameters in millimetres. Define the length and rotational orientation (via spherical coordinates) of each port. Additionally, specify whether the port is rotatable or tapped and label its usage. Crucially, the focal point to serve as the origin for each port can also be defined with a drop-down box.     
+**(3) Port Properties**: Configure all necessary ports using conventional European (DN) sizes, based on tube inner diameters in millimetres. Define the length and rotational orientation (via spherical coordinates) of each port. Additionally, specify whether the port is rotatable or threaded and label its usage. Crucially, the focal point to serve as the origin for each port can also be defined with a drop-down box.     
 
 
 You can execute and view the current model at any time. The application offers several options for 3D rendering, as well as a transparency setting that allows you to adjust the plot's transparency for an inside view of your design. Any intersections of the ports and main body are also removed, whilst maintaining optimal performance.    

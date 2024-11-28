@@ -1,0 +1,24 @@
+Name	Main-Body Type	Outer Diameter (mm)	Wall Thickness (mm)	Height (mm)	Notes
+20241128_Spherical_Analysis_Chamber	Spherical	250	3	250	
+-----
+Name	Color	Fx (mm)	Fy (mm)	Fz (mm)
+A		0	0	0
+-----
+Port	Flange	Length	Theta (β)	Phi (α)	Rotatable?	Threaded?	Usage	Focal-Point
+1	DN16CF	180	45	135	no	no		A
+2	DN16CF	180	45	225	no	no		A
+3	DN16CF	180	45	315	no	no		A
+4	DN16CF	180	22.5	45	no	no		A
+5	DN40CF	180	45	45	no	no		A
+6	DN40CF	180	0	45	no	no		A
+7	DN40CF	200	45	0	no	no		A
+8	DN40CF	200	45	90	no	no		A
+9	DN40CF	200	45	180	no	no		A
+10	DN40CF	200	45	270	no	no		A
+11	DN100CF	200	0	0	yes	no		A
+12	DN100CF	200	180	0	no	no		A
+13	DN100CF	200	0	-90	no	no		A
+14	DN100CF	200	0	90	no	no		A
+15	DN125CF	180	90	0	yes	yes		A
+16	DN125CF	180	-90	0	no	yes		A
+-----

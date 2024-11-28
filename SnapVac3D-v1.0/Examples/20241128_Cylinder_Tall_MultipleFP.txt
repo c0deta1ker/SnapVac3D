@@ -1,0 +1,21 @@
+Name	Main-Body Type	Outer Diameter (mm)	Wall Thickness (mm)	Height (mm)	Notes
+20241128_Cylinder_Tall_MultipleFP	Cylindrical	100	2	300	
+-----
+Name	Color	Fx (mm)	Fy (mm)	Fz (mm)
+A		0	0	0
+B		0	0	-100
+C		0	0	100
+-----
+Port	Flange	Length	Theta (β)	Phi (α)	Rotatable?	Threaded?	Usage	Focal-Point
+1	DN40CF	125	0	0	no	no		A
+2	DN40CF	125	180	0	no	no		A
+3	DN40CF	100	0	0	no	no		B
+4	DN40CF	100	180	0	no	no		B
+5	DN40CF	100	0	0	no	no		C
+6	DN40CF	100	180	0	no	no		C
+7	DN25CF	100	30	90	no	no		A
+8	DN25CF	100	-30	90	no	no		A
+9	DN25CF	125	0	90	no	no		A
+10	DN25CF	60	0	90	no	no		B
+11	DN25CF	60	0	90	no	no		C
+-----

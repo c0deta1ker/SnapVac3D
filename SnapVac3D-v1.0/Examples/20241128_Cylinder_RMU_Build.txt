@@ -1,0 +1,37 @@
+Name	Main-Body Type	Outer Diameter (mm)	Wall Thickness (mm)	Height (mm)	Notes
+20241128_Cylinder_RMU_Build	Cylindrical	200	2	150	
+-----
+Name	Color	Fx (mm)	Fy (mm)	Fz (mm)
+A		0	0	0
+B		0	0	20
+C		0	0	-20
+D		0	50	0
+E		47	15	0
+F		29	-40	0
+G		-29	-40	0
+H		-47	15	0
+-----
+Port	Flange	Length	Theta (β)	Phi (α)	Rotatable?	Threaded?	Usage	Focal-Point
+1	DN25CF	150	30	0	no	no		A
+2	DN25CF	150	30	90	no	no		A
+3	DN40CF	160	0	0	no	no		A
+4	DN40CF	135	0	90	no	no		A
+5	DN40CF	160	0	180	no	no		A
+6	DN40CF	135	0	270	no	no		A
+7	DN160CF	125	-90	0	no	no		A
+8	DN16CF	125	0	45	no	no		B
+9	DN16CF	125	0	135	no	no		B
+10	DN16CF	125	0	225	no	no		B
+11	DN16CF	125	0	315	no	no		B
+12	DN16CF	125	0	45	no	no		C
+13	DN16CF	125	0	135	no	no		C
+14	DN16CF	125	0	225	no	no		C
+15	DN16CF	125	0	315	no	no		C
+16	DN40CF	100	90	0	no	no		D
+17	DN16CF	100	90	0	no	no		E
+18	DN16CF	100	90	0	no	no		F
+19	DN16CF	100	90	0	no	no		G
+20	DN16CF	100	90	0	no	no		H
+21	DN16CF	125	0	25	no	no		B
+22	DN16CF	125	0	65	no	no		B
+-----

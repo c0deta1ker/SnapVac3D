@@ -1,0 +1,19 @@
+Name	Main-Body Type	Outer Diameter (mm)	Wall Thickness (mm)	Height (mm)	Notes
+20241128_Capsule_Complex_Build	Capsule	150	3	150	
+-----
+Name	Color	Fx (mm)	Fy (mm)	Fz (mm)
+A		0	0	0
+B		125	0	0
+C		125	0	60
+-----
+Port	Flange	Length	Theta (β)	Phi (α)	Rotatable?	Threaded?	Usage	Focal-Point
+1	DN40CF	200	0	0	no	no		A
+2	DN40CF	100	90	0	no	no		B
+3	DN16CF	50	0	0	no	no		C
+4	DN100CF	150	-90	0	no	no		A
+5	DN63CF	120	0	90	no	no		A
+6	DN100CF	120	0	-90	no	no		A
+7	DN100CF	150	0	180	no	no		A
+8	DN40CF	130	45	90	no	no		A
+9	DN40CF	130	-45	45	no	no		A
+-----
