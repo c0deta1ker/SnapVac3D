@@ -40,7 +40,7 @@ email: procopios.constantinou@psi.ch
 
 
 ## Acknowledgments
-I would like to thank Dr. Vladimir Strocov (PSI) for his invaluable guidance and support in the design and execution of this software application. His expertise and insights were instrumental in the successful completion of this project.   
+I would like to thank Dr. Vladimir Strocov (PSI) and Leonard Nue (PSI) for their invaluable guidance and feedback in the design and execution of this software application.
 
 
 ## License  
