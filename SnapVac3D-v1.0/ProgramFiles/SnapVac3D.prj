@@ -1,15 +1,20 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration file="G:\My Drive\2024 - Project Scientist (PSI)\My Software\SnapVac3D\SnapVac3D-v1.0\ProgramFiles\SnapVac3D.prj" location="G:\My Drive\2024 - Project Scientist (PSI)\My Software\SnapVac3D\SnapVac3D-v1.0\ProgramFiles" name="SnapVac3D" target="target.ezdeploy.standalone" target-name="Application Compiler">
+  <configuration file="G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProgramFiles\SnapVac3D.prj" location="G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProgramFiles" name="SnapVac3D" target="target.ezdeploy.standalone" target-name="Application Compiler">
     <param.appname>SnapVac3D</param.appname>
-    <param.icon />
-    <param.icons />
+    <param.icon>${PROJECT_ROOT}\SnapVac3D_resources\icon.ico</param.icon>
+    <param.icons>
+      <file>${PROJECT_ROOT}\SnapVac3D_resources\icon_48.png</file>
+      <file>${PROJECT_ROOT}\SnapVac3D_resources\icon_32.png</file>
+      <file>${PROJECT_ROOT}\SnapVac3D_resources\icon_24.png</file>
+      <file>${PROJECT_ROOT}\SnapVac3D_resources\icon_16.png</file>
+    </param.icons>
     <param.version>1.0</param.version>
     <param.authnamewatermark>Dr. Procopios Constantinou</param.authnamewatermark>
     <param.email>procopios.constantinou@psi.ch</param.email>
     <param.company>PSI</param.company>
     <param.summary>Effortlessly design custom vacuum chambers with precision and speed in three-dimensions using our app.</param.summary>
     <param.description>SnapVac3D is an innovative app that empowers users to effortlessly design custom vacuum chambers in 3D with precision and speed. Seamlessly browse through your designs to ensure feasibility, then save them as text files and PNGs for easy retrieval or to share with your preferred vacuum supplier. Crafting your perfect vacuum chamber has never been more accessible!</param.description>
-    <param.screenshot>G:\My Drive\2024 - Project Scientist (PSI)\My Software\SnapVac3D\SnapVac3D-v1.0\ReadMeImages\App_Icons\SnapVac3D-Icon_main_01.png</param.screenshot>
+    <param.screenshot>G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ReadMeImages\App_Icons\SnapVac3D-Icon_main_01.png</param.screenshot>
     <param.guid />
     <param.installpath.string>\PSI\SnapVac3D\</param.installpath.string>
     <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
@@ -27,8 +32,8 @@
     <param.web.mcr>true</param.web.mcr>
     <param.package.mcr>false</param.package.mcr>
     <param.no.mcr>false</param.no.mcr>
-    <param.web.mcr.name>SnapVac3D_Installer_Web</param.web.mcr.name>
-    <param.package.mcr.name>SnapVac3DInstaller_mcr</param.package.mcr.name>
+    <param.web.mcr.name>SnapVac3D_Installer_web</param.web.mcr.name>
+    <param.package.mcr.name>MyAppInstaller_mcr</param.package.mcr.name>
     <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
     <param.windows.command.prompt>true</param.windows.command.prompt>
     <param.create.log>false</param.create.log>
@@ -43,9 +48,10 @@
 	 -?  print help on how to use the application 
 	 input arguments</param.help.text>
     <unset>
-      <param.icon />
-      <param.icons />
       <param.version />
+      <param.authnamewatermark />
+      <param.email />
+      <param.company />
       <param.guid />
       <param.installpath.string />
       <param.installpath.combo />
@@ -63,6 +69,7 @@
       <param.web.mcr />
       <param.package.mcr />
       <param.no.mcr />
+      <param.package.mcr.name />
       <param.no.mcr.name />
       <param.windows.command.prompt />
       <param.create.log />
@@ -77,17 +84,17 @@
     <fileset.resources />
     <fileset.package />
     <fileset.depfun>
-      <file>${PROJECT_ROOT}\Icon_SnapVac3D_App.jpeg</file>
-      <file>${PROJECT_ROOT}\SnapVac3D-DefineAxes_main_01.png</file>
+      <file>${PROJECT_ROOT}\App_Figures\SnapVac3D-DefineAxes_main_01.png</file>
+      <file>G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ReadMeImages\App_Icons\Icon_SnapVac3D_App.jpeg</file>
     </fileset.depfun>
     <build-deliverables>
-      <file location="${PROJECT_ROOT}\SnapVac3D\for_testing" name="splash.png" optional="false">G:\My Drive\2024 - Project Scientist (PSI)\My Software\SnapVac3D\SnapVac3D-v1.0\ProgramFiles\SnapVac3D\for_testing\splash.png</file>
-      <file location="${PROJECT_ROOT}\SnapVac3D\for_testing" name="SnapVac3D.exe" optional="false">G:\My Drive\2024 - Project Scientist (PSI)\My Software\SnapVac3D\SnapVac3D-v1.0\ProgramFiles\SnapVac3D\for_testing\SnapVac3D.exe</file>
-      <file location="${PROJECT_ROOT}\SnapVac3D\for_testing" name="readme.txt" optional="true">G:\My Drive\2024 - Project Scientist (PSI)\My Software\SnapVac3D\SnapVac3D-v1.0\ProgramFiles\SnapVac3D\for_testing\readme.txt</file>
+      <file location="${PROJECT_ROOT}\SnapVac3D\for_testing" name="splash.png" optional="false">G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProgramFiles\SnapVac3D\for_testing\splash.png</file>
+      <file location="${PROJECT_ROOT}\SnapVac3D\for_testing" name="SnapVac3D.exe" optional="false">G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProgramFiles\SnapVac3D\for_testing\SnapVac3D.exe</file>
+      <file location="${PROJECT_ROOT}\SnapVac3D\for_testing" name="readme.txt" optional="true">G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProgramFiles\SnapVac3D\for_testing\readme.txt</file>
     </build-deliverables>
     <workflow />
     <matlab>
-      <root>C:\Program Files\MATLAB\R2024a</root>
+      <root>C:\Program Files\MATLAB\R2024b</root>
       <toolboxes />
     </matlab>
     <platform>
