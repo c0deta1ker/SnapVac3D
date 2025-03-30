@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration file="G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProgramFiles\SnapVac3D.prj" location="G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProgramFiles" name="SnapVac3D" target="target.ezdeploy.standalone" target-name="Application Compiler">
+  <configuration file="G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProjectFiles\SnapVac3D.prj" location="G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProjectFiles" name="SnapVac3D" preferred-package-location="G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProjectFiles\SnapVac3D\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
     <param.appname>SnapVac3D</param.appname>
     <param.icon>${PROJECT_ROOT}\SnapVac3D_resources\icon.ico</param.icon>
     <param.icons>
@@ -79,18 +79,18 @@
       <param.example />
     </unset>
     <fileset.main>
-      <file>${PROJECT_ROOT}\App_SnapVac3D.mlapp</file>
+      <file>G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProgramFiles\App_SnapVac3D.mlapp</file>
     </fileset.main>
     <fileset.resources />
     <fileset.package />
     <fileset.depfun>
-      <file>${PROJECT_ROOT}\App_Figures\SnapVac3D-DefineAxes_main_01.png</file>
+      <file>G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProgramFiles\App_Figures\SnapVac3D-DefineAxes_main_01.png</file>
       <file>G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ReadMeImages\App_Icons\Icon_SnapVac3D_App.jpeg</file>
     </fileset.depfun>
     <build-deliverables>
-      <file location="${PROJECT_ROOT}\SnapVac3D\for_testing" name="splash.png" optional="false">G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProgramFiles\SnapVac3D\for_testing\splash.png</file>
-      <file location="${PROJECT_ROOT}\SnapVac3D\for_testing" name="SnapVac3D.exe" optional="false">G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProgramFiles\SnapVac3D\for_testing\SnapVac3D.exe</file>
-      <file location="${PROJECT_ROOT}\SnapVac3D\for_testing" name="readme.txt" optional="true">G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProgramFiles\SnapVac3D\for_testing\readme.txt</file>
+      <file location="${PROJECT_ROOT}\SnapVac3D\for_testing" name="SnapVac3D.exe" optional="false">G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProjectFiles\SnapVac3D\for_testing\SnapVac3D.exe</file>
+      <file location="${PROJECT_ROOT}\SnapVac3D\for_testing" name="readme.txt" optional="true">G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProjectFiles\SnapVac3D\for_testing\readme.txt</file>
+      <file location="${PROJECT_ROOT}\SnapVac3D\for_testing" name="splash.png" optional="false">G:\My Drive\My Software\MATLAB-SnapVac3D\SnapVac3D\SnapVac3D-v1.0\ProjectFiles\SnapVac3D\for_testing\splash.png</file>
     </build-deliverables>
     <workflow />
     <matlab>
