@@ -15,7 +15,7 @@ Or, simply download & install the standalone app via the executable file [here](
 ## App Details
 ![App_MatBase](SnapVac3D-v1.0/ReadMeImages/App_SnapVac3D.png)   
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AkeFXAnLPO8&ab/0.jpg)](https://www.youtube.com/watch?v=AkeFXAnLPO8&ab_channel=pr0cop1)   
+[![IMAGE ALT TEXT HERE](SnapVac3D-v1.0/ReadMeImages/App_SnapVac3D.png)](https://www.youtube.com/watch?v=AkeFXAnLPO8&ab_channel=pr0cop1)   
 
 
 The vacuum design is split into three independent tables of properties:  
