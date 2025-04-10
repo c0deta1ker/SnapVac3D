@@ -15,6 +15,9 @@ Or, simply download & install the standalone app via the executable file [here](
 ## App Details
 ![App_MatBase](SnapVac3D-v1.0/ReadMeImages/App_SnapVac3D.png)   
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AkeFXAnLPO8&ab/0.jpg)](https://www.youtube.com/watch?v=AkeFXAnLPO8&ab_channel=pr0cop1)   
+
+
 The vacuum design is split into three independent tables of properties:  
 
 **(1) Main-Chamber Properties**: Define the morphology of your main chamber (choice of cylindrical, spherical, tetragonal or capsule) along with its dimensions & wall thickness. Here, you can also give your design a name and add some notes.  
