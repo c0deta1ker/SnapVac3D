@@ -11,9 +11,7 @@ To run within a MATLAB environment:
 2. Open MATLAB and use *Set Path* in the *Home* tab to add the *SnapVac3D* repository and all its sub-folders into its saved search paths.
 3. Type 'App_SnapVac3D' in the MATLAB Command Prompt to boot up the  App.
 
-Or, simply download & install the standalone app via the executable file [here](https://github.com/c0deta1ker/SnapVac3D/releases/download/v1.0/SnapVac3D_Installer_Web.exe)!       
-
-Currently available on the Windows operating system only.      
+Or, simply download & install the standalone app via the executable file [here](https://github.com/c0deta1ker/SnapVac3D/releases/download/v1.0/SnapVac3D_Installer_Web.exe)! Currently available on the Windows operating system only.       
   
 ## App Details
 [![](SnapVac3D-v1.0/ReadMeImages/App_SnapVac3D.png)](https://www.youtube.com/watch?v=AkeFXAnLPO8&ab_channel=pr0cop1)   
