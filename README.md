@@ -14,7 +14,7 @@ To run within a MATLAB environment:
 Or, simply download & install the standalone app via the executable file [here](https://github.com/c0deta1ker/SnapVac3D/releases/download/v1.0/SnapVac3D_Installer_Web.exe)! Currently available on the Windows operating system only.       
   
 ## App Details
-[![](SnapVac3D-v1.0/ReadMeImages/App_SnapVac3D.png)](https://www.youtube.com/watch?v=AkeFXAnLPO8&ab_channel=pr0cop1)   
+[![](SnapVac3D-v1.0/ReadMeImages/App_SnapVac3D.png)](https://www.youtube.com/watch?v=ZBpy_H1balA&ab_channel=pr0cop1)   
 
 
 The vacuum design is split into three independent tables of properties:  
